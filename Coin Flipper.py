@@ -3,7 +3,7 @@
 #for now it only calculates the percentage of how many times a 0 or a 1 is generated from a million "flips"
 import random
 valid = True
-numOfFlips = 100000000
+numOfFlips = 1000000
 h_count = 0
 t_count = 0
 
